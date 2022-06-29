@@ -1,5 +1,5 @@
 {
-    "name": "alexeyPalshin/laravel-logs-ui",
+    "name": "palshin/laravel-logs-ui",
     "description": "UI for viewing laravel log files",
     "autoload": {
         "psr-4": {
