@@ -1,9 +1,9 @@
 {
-    "name": "evergreen/laravel-logs-ui",
+    "name": "alexeyPalshin/laravel-logs-ui",
     "description": "UI for viewing laravel log files",
     "autoload": {
         "psr-4": {
-            "Evergreen\\LaravelLogsUi\\": "src/"
+            "LaravelLogsUi\\": "src/"
         }
     },
     "authors": [
