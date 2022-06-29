@@ -1,0 +1,15 @@
+{
+    "name": "evergreen/laravel-logs-ui",
+    "description": "UI for viewing laravel log files",
+    "autoload": {
+        "psr-4": {
+            "Evergreen\\LaravelLogsUi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexey Palshin"
+        }
+    ],
+    "require": {}
+}
